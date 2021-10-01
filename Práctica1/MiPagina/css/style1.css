@@ -1,0 +1,22 @@
+h1 {
+    color:blueviolet;
+    text-align: center
+}
+h2 {
+    color:green;
+}
+.pokemon{
+    color: red;
+}
+p{
+    color:  orange;
+}
+
+p.pokemon{
+    color:  violet;
+}
+h1{
+    border: 5px goldenrod solid;
+}
+
+  

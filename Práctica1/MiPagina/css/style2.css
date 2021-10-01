@@ -1,0 +1,17 @@
+h3 {
+    color:gray;
+    text-align: center
+}
+.auto{
+    color: turquoise;
+}
+p{
+    color:  orange;
+}
+
+p.animal{
+    color:  brown;
+}
+h3{
+    border: 5px blue;
+}
